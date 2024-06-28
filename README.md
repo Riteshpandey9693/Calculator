@@ -4,7 +4,7 @@ A simple and elegant calculator built using HTML, CSS, and JavaScript. This proj
 
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Basic arithmetic operations: addition, subtraction, multiplication, division and modulo(remainder).
 - Clear (AC) button to reset the calculator.
 - Delete (DEL) button to remove the last entered character.
 - Responsive design with a modern look and feel.
